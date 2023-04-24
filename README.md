@@ -12,5 +12,7 @@ One of the most intriguing phenomena within the natural sciences is phase transi
 
 ## References
 [1] Lei Wang. (2016). Discovering Phase Transitions with Unsupervised Learning. Physical Review B, 94(19),195105. https://doi.org/10.1103/PhysRevB.94.195105
+
 [2] Krkošek, M., & Drake, J. M. (2014). On signals of phase transitions in salmon population dynamics. Proceedings. Biological sciences, 281(1784), 20133221. https://doi.org/10.1098/rspb.2013.3221
+
 [3] Steyn-Ross, M. L., Steyn-Ross, D. A., & Sleigh, J. W. (2004). Modelling general anaesthesia as a first-order phase transition in the cortex. Progress in biophysics and molecular biology, 85(2–3), 369–385. https://doi.org/10.1016/j.pbiomolbio.2004.02.001
